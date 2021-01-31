@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzNetWebApi", "QuartzNetWebApi\QuartzNetWebApi.csproj", "{8909E295-0487-4861-B679-3B719D2AFCFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8909E295-0487-4861-B679-3B719D2AFCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8909E295-0487-4861-B679-3B719D2AFCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8909E295-0487-4861-B679-3B719D2AFCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8909E295-0487-4861-B679-3B719D2AFCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7591AA54-0510-4C72-814E-46A47F1A47B1}
+	EndGlobalSection
+EndGlobal

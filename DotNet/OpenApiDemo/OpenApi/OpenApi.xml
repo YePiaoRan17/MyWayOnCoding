@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OpenApi</name>
+    </assembly>
+    <members>
+        <member name="T:OpenApi.Controllers.AdminController">
+            <summary>
+            管理员
+            </summary>
+        </member>
+        <member name="T:OpenApi.Controllers.OrdersController">
+            <summary>
+            订单
+            </summary>
+        </member>
+        <member name="T:OpenApi.Controllers.WeatherForecastController">
+            <summary>
+            天气预报
+            </summary>
+        </member>
+        <member name="M:OpenApi.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{OpenApi.Controllers.WeatherForecastController})">
+            <summary>
+            天气预报
+            </summary>
+            <param name="logger"></param>
+        </member>
+        <member name="M:OpenApi.Controllers.WeatherForecastController.Get">
+            <summary>
+            获取
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

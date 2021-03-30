@@ -1,2 +1,4 @@
-GoGinGonic/GinDemo/.idea/
-GoGinGonic/GoZeroDemo/.idea/
+*.idea/
+*.vs/
+*.vscode/
+Spring/im-leaf/.mvn/

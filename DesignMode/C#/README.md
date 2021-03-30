@@ -1,2 +1,0 @@
-# MyWayOnCoding
-MyWayOnCoding
